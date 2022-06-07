@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @kompiuterizmas - novice developer.
+- 👀 I’m interested in creating web applications.
+- 🌱 I’m currently learning such languages/frameworks as Angular, React, PHP.
+- 💞️ I’m looking to collaborate with developers on any project to gain experience for myself and to expand my portfolio.
+- 📫 How to reach me? 
+- You can find me on discord: kompiuterizmas#6625
+- or on LinkedIN: https://www.linkedin.com/in/gintautas-burmistrovas-96488b205/
